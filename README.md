@@ -1,11 +1,11 @@
 # p5.js
 Conntains vizualizing programs related to javaScript
 
-# Circle_Trail
+**Circle_Trail**
 
 Creates a trail of circles which change colors when the mouse is clicked and dragged.
 
-# Instructions
+**Instructions**
 
 	the program requires p5.js library to run
 	this can be downloaded from: https://p5js.org/download/
