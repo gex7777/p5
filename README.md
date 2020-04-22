@@ -1,5 +1,5 @@
 # p5.js
-Conntains vizualizing programs related to javaScript
+Contains all programs related to javaScript
 
 **Circle_Trail**
 
