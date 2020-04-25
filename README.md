@@ -17,6 +17,10 @@ Create an endless wave of yellow rain.
 	ensure that the p5.js library, main.js and index.html files are in the same folder
 	feel free to mess around with the code    
 
+Special thanks to **Daniel Shiffman** from the youtube channel **The Coding Train** for teaching me to code in p5.js
+https://www.youtube.com/user/shiffman
+
+
 
  
 
