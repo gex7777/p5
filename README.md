@@ -9,6 +9,15 @@ Creates a trail of circles which change colors when the mouse is clicked and dra
 
 Create an endless wave of yellow rain.
 
+**BubbleSort**
+
+Visualize the bubble sort algorithm.
+
+**MergeSort**
+
+Visualize the merge sort algorithm.
+
+
 **Instructions**
 
 	the program requires p5.js library to run
