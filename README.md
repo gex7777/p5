@@ -7,7 +7,7 @@ Creates a trail of circles which change colors when the mouse is clicked and dra
 
 **Rain**
 
-Create an endless wave of yellow rain.
+Create an endless wave of yellow rain haiving depth effect.
 
 **"Name"_Sort**
 
